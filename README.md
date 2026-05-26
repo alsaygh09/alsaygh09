@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mohammed Yousif Alsaygh 👋
 
-<!--
-**alsaygh09/alsaygh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student at the University of Bahrain.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in front-end development, back-end logic, databases, and IT solutions
+- I enjoy learning new technologies and improving my problem-solving skills
+- Currently improving my skills in web development, programming, and technical troubleshooting
+
+## Technical Skills
+
+- **Front-End Development:** HTML, CSS, JavaScript
+- **Back-End & Programming:** PHP, Java, Python, C#
+- **Databases:** MySQL, SQLite, PL/SQL
+- **Version Control:** Git, GitHub
+- **Other Knowledge:** Client-Server Architecture, API Fundamentals, Cloud Architecture Fundamentals
+- **Technical Troubleshooting:** Software setup, basic hardware issues, PC setup and optimization
+
+## Portfolio
+
+- Portfolio: Mohammed Alsaygh — IT Portfolio https://alsaygh09.github.io/Portfolio/
