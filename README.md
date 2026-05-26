@@ -15,7 +15,6 @@ I'm an Information Technology student at the University of Bahrain.
 - **Databases:** MySQL, SQLite, PL/SQL
 - **Version Control:** Git, GitHub
 - **Other Knowledge:** Client-Server Architecture, API Fundamentals, Cloud Architecture Fundamentals
-- **Technical Troubleshooting:** Software setup, basic hardware issues, PC setup and optimization
 
 ## Portfolio
 
